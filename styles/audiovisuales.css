@@ -1,0 +1,23 @@
+.conteiner-video{
+    float: left;
+    width: auto;
+}
+.centrado{
+display: flex;
+justify-content: center;
+}
+.galeria{
+    margin: 5px;
+    border: 1px solid #000;
+    float: left;
+    width: 60vh;
+}
+
+div.galeria img{
+    width: 100%;
+    height: auto;
+}
+.descripcion{
+    padding: 15px;
+    text-align: center;
+}
